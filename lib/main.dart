@@ -136,7 +136,7 @@ class _HomePageState extends State<HomePage> {
       body: SingleChildScrollView(
         scrollDirection: Axis.vertical,
         child: Container(
-          color: const Color(0xff141414),
+          color: const Color(0xFF000000),
           width: double.infinity,
           child: Column(
             children: [
