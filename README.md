@@ -23,7 +23,11 @@
   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/147982558-503efcdb-7ed4-4351-bd18-bbb66452a7a4.jpg">
   <img src="https://user-images.githubusercontent.com/69757558/147982558-503efcdb-7ed4-4351-bd18-bbb66452a7a4.jpg" alt="Css Logo" with="200" height="400"/>
 
-  </a></td>
+  </a>
+  
+  </td>
+  
+  
   
 </tr>
   
